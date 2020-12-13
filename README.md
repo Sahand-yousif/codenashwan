@@ -45,6 +45,8 @@
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="22" height="22"/>
  <img src="https://devicon.dev/devicon.git/icons/debian/debian-original.svg" width="22" height="22"/>
+  <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="22" height="22"/>
+
 </p>
 
 
