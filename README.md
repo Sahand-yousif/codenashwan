@@ -30,7 +30,8 @@
  <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="22" height="22"/>
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
  <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="22" height="22"/>
- <img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" width="22" height="22"/>
+  <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" width="22" height="22"/>
+ <img src="https://devicon.dev/devicon.git/icons/composer/composer-original.svg" width="22" height="22"/>
  <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" width="22" height="22"/>
 </p>
 
