@@ -40,6 +40,8 @@
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="22" height="22"/>
  <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" width="22" height="22"/>
+  <img src="https://img.icons8.com/color/2x/microsoft-sql-server.png" width="22" height="22"/>
+
 </p>
 <h3><b>I'm an expert on Operation System in these fields:</b></h3>
 <p align="left">
