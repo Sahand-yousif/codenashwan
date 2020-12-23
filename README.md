@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nashwan Abdullah</h1>
 <h3 align="center">A self-taught Programmer 😜</h3>
 
-- 🔭 I’m currently working on [Rstacode.info](https://rstacode.info) , [Youtube](https://www.youtube.com/rstacode)
+- 🔭 I’m currently working on  [Youtube](https://www.youtube.com/rstacode)
  
 - 🌱 I’m currently learning **Flutter, Master Laravel**
 
