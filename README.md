@@ -6,9 +6,8 @@
  سەردانکەران<br><br>
   <img src="https://profile-counter.glitch.me/codenashwan/count.svg" />
 </p>
-<br>
 
-<h1 align="center">سڵاو 👋, من نەشوان عبدللە</h1>
+<h3 align="center">سڵاو 👋, من نەشوان عبدللە</h1>
 <h3 align="center" dir="rtl">داڕێژەری کۆدم  😜</h3>
 
 <h5 align="right"><b>من لە <a href="https://www.youtube.com/rstacode">یوتوب</a> فێرکارییەکانم دادەنێم 🎬</b></h3>
@@ -37,7 +36,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=ffffff&labelColor=458BFF)
 ![illustrator](https://img.shields.io/badge/-illustrator-000000?style=flat&logo=illustrator&logoColor=ffffff&labelColor=F79500)
 
-<hr>
 
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری باک ئێند</b></h3>
 
@@ -53,8 +51,3 @@
 ![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer&logoColor=ffffff&labelColor=7C5235)
 ![oracle](https://img.shields.io/badge/-oracle-000000?style=flat&logo=oracle&logoColor=ffffff&labelColor=7C5235)
 ![sqlserver](https://img.shields.io/badge/-sqlserver-000000?style=flat&logo=sqlserver&logoColor=ffffff&labelColor=000)
-
-<hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenashwan&layout=compact&hide=html"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenashwan&show_icons=true"></p>
