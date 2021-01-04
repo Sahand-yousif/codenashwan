@@ -15,7 +15,8 @@
 
 <h3><b>I'm an expert on Front End in these fields:</b></h3>
 <p align="left">
-   <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="22" height="22"/>
+  <i class="devicon-html5-plain colored"></i>
+
    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="22" height="22"/>
    <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="22" height="22"/>
    <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="22" height="22"/>
