@@ -11,6 +11,7 @@
 
 <a href="https://fb.com/codenashwan" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
 <a href="https://wa.me/07704695176" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-43-189795.png" height="22" width="22" /></a>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.1/devicon.min.css">
 
 <h3><b>I'm an expert on Front End in these fields:</b></h3>
 <p align="left">
