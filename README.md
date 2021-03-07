@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">سڵاو 👋, من نەشوان عبدللە</h1>
-<h3 align="center" dir="rtl">داڕێژەری کۆدم  😜</h3>
+<h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
 
 <h5 align="right"><b>من لە <a href="https://www.youtube.com/rstacode">یوتوب</a> فێرکارییەکانم دادەنێم 🎬</b></h3>
 <h5 align="right"><b>لە ئێستەدا کار لەسەر فلاتەر و ماستەر لە لاراڤێلدا ئەکەم 🌱</b></h3>
